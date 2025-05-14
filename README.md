@@ -5,13 +5,13 @@ The project focuses on practical application value, including:
 
 Automating data cleaning and preprocessing.
 Leveraging linear regression models to identify key factors affecting sales performance.
-Supporting users in importing custom datasets for sentiment analysis and sales predictions.
+Supporting users in importing custom datasets for analysis and sales predictions.
 
 这是一个个人项目，旨在通过线性回归模型分析金融顾问的销售表现。项目聚焦于实际应用价值，包括：
 
 自动化数据清理与预处理。
 利用线性回归模型发现影响销售表现的关键因素。
-支持用户导入自定义数据集进行情绪分析与销售预测。
+支持用户导入自定义数据集进行分析与销售预测。
 Project Type (项目类型): Personal Portfolio (个人作品集)
 Project Maturity (项目成熟度): Ongoing Iteration (持续迭代中)
 
